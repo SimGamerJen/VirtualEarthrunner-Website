@@ -16,7 +16,7 @@ After review, add virtualearthrunner.com as an active zone in the same Cloudflar
 
 ## Before public launch
 
-- Confirm the enquiry email or another contact destination and replace the visible draft contact note with a working link.
+- Enquiries use the confirmed info@virtualearthrunner.com address through an email button and visible address link.
 - Review service descriptions and biography; no availability, qualifications, client endorsements or current company registration are claimed.
 - Confirm the current legal trading details for the footer as applicable.
 - Remove the noindex meta tag, change robots.txt to permit indexing and remove the draft footer label when approved for launch.
