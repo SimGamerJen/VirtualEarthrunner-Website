@@ -23,3 +23,11 @@ After review, add virtualearthrunner.com as an active zone in the same Cloudflar
 - This draft has no contact form or tracking. Revisit privacy information if those are introduced.
 
 Cloudflare references: https://developers.cloudflare.com/workers/configuration/routing/custom-domains/ and https://developers.cloudflare.com/workers/static-assets/get-started/
+
+---
+
+## Licence and Permissions
+
+Copyright © 2026 SimGamerJen. All rights reserved.
+
+You may download and use this project for personal use. You may not modify, redistribute, re-upload, or publish this project, in whole or in part, or any derivative version without prior written permission from SimGamerJen.
